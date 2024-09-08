@@ -1,0 +1,30 @@
+{
+  "name": "scroll-up-bar",
+  "main": "dist/scroll-up-bar.min.js",
+  "version": "0.3.0",
+  "homepage": "https://github.com/eduardomb/scroll-up-bar",
+  "authors": [
+    "Eduardo Barbosa <eduardomb@ufmg.br>"
+  ],
+  "description": "The scroll up bar plugin (jQuery) hides the top bar when scrolling down, and show it when scrolling up.",
+  "keywords": [
+    "scroll",
+    "up",
+    "bar",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "devDependencies" : {
+    "jasmine-jquery": "~2.0.5"
+  }
+}
